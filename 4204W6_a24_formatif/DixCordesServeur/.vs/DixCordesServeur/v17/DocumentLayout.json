@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2290726\\Desktop\\A24-FormatifFinalProgWeb\\4204W6_a24_formatif\\DixCordesServeur\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5548AADF-78BA-4EE7-A7FA-FD7378C7DA7E}|DixCordesServeur.csproj|c:\\users\\2290726\\desktop\\a24-formatiffinalprogweb\\4204w6_a24_formatif\\dixcordesserveur\\data\\dixcordesserveurcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5548AADF-78BA-4EE7-A7FA-FD7378C7DA7E}|DixCordesServeur.csproj|solutionrelative:data\\dixcordesserveurcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5548AADF-78BA-4EE7-A7FA-FD7378C7DA7E}|DixCordesServeur.csproj|c:\\users\\2290726\\desktop\\a24-formatiffinalprogweb\\4204w6_a24_formatif\\dixcordesserveur\\controllers\\reactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5548AADF-78BA-4EE7-A7FA-FD7378C7DA7E}|DixCordesServeur.csproj|solutionrelative:controllers\\reactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5548AADF-78BA-4EE7-A7FA-FD7378C7DA7E}|DixCordesServeur.csproj|c:\\users\\2290726\\desktop\\a24-formatiffinalprogweb\\4204w6_a24_formatif\\dixcordesserveur\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5548AADF-78BA-4EE7-A7FA-FD7378C7DA7E}|DixCordesServeur.csproj|solutionrelative:controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5548AADF-78BA-4EE7-A7FA-FD7378C7DA7E}|DixCordesServeur.csproj|c:\\users\\2290726\\desktop\\a24-formatiffinalprogweb\\4204w6_a24_formatif\\dixcordesserveur\\models\\displaydtos\\messagedisplaydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5548AADF-78BA-4EE7-A7FA-FD7378C7DA7E}|DixCordesServeur.csproj|solutionrelative:models\\displaydtos\\messagedisplaydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5548AADF-78BA-4EE7-A7FA-FD7378C7DA7E}|DixCordesServeur.csproj|c:\\users\\2290726\\desktop\\a24-formatiffinalprogweb\\4204w6_a24_formatif\\dixcordesserveur\\models\\displaydtos\\reactiondisplaydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5548AADF-78BA-4EE7-A7FA-FD7378C7DA7E}|DixCordesServeur.csproj|solutionrelative:models\\displaydtos\\reactiondisplaydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5548AADF-78BA-4EE7-A7FA-FD7378C7DA7E}|DixCordesServeur.csproj|c:\\users\\2290726\\desktop\\a24-formatiffinalprogweb\\4204w6_a24_formatif\\dixcordesserveur\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5548AADF-78BA-4EE7-A7FA-FD7378C7DA7E}|DixCordesServeur.csproj|solutionrelative:models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5548AADF-78BA-4EE7-A7FA-FD7378C7DA7E}|DixCordesServeur.csproj|c:\\users\\2290726\\desktop\\a24-formatiffinalprogweb\\4204w6_a24_formatif\\dixcordesserveur\\models\\reaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5548AADF-78BA-4EE7-A7FA-FD7378C7DA7E}|DixCordesServeur.csproj|solutionrelative:models\\reaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DixCordesServeurContext.cs",
+              "DocumentMoniker": "C:\\Users\\2290726\\Desktop\\A24-FormatifFinalProgWeb\\4204W6_a24_formatif\\DixCordesServeur\\Data\\DixCordesServeurContext.cs",
+              "RelativeDocumentMoniker": "Data\\DixCordesServeurContext.cs",
+              "ToolTip": "C:\\Users\\2290726\\Desktop\\A24-FormatifFinalProgWeb\\4204W6_a24_formatif\\DixCordesServeur\\Data\\DixCordesServeurContext.cs",
+              "RelativeToolTip": "Data\\DixCordesServeurContext.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAswGEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T20:40:42.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReactionsController.cs",
+              "DocumentMoniker": "C:\\Users\\2290726\\Desktop\\A24-FormatifFinalProgWeb\\4204W6_a24_formatif\\DixCordesServeur\\Controllers\\ReactionsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReactionsController.cs",
+              "ToolTip": "C:\\Users\\2290726\\Desktop\\A24-FormatifFinalProgWeb\\4204W6_a24_formatif\\DixCordesServeur\\Controllers\\ReactionsController.cs",
+              "RelativeToolTip": "Controllers\\ReactionsController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA9wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T20:37:27.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReactionDisplayDTO.cs",
+              "DocumentMoniker": "C:\\Users\\2290726\\Desktop\\A24-FormatifFinalProgWeb\\4204W6_a24_formatif\\DixCordesServeur\\Models\\DisplayDTOs\\ReactionDisplayDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DisplayDTOs\\ReactionDisplayDTO.cs",
+              "ToolTip": "C:\\Users\\2290726\\Desktop\\A24-FormatifFinalProgWeb\\4204W6_a24_formatif\\DixCordesServeur\\Models\\DisplayDTOs\\ReactionDisplayDTO.cs",
+              "RelativeToolTip": "Models\\DisplayDTOs\\ReactionDisplayDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T20:32:48.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessageDisplayDTO.cs",
+              "DocumentMoniker": "C:\\Users\\2290726\\Desktop\\A24-FormatifFinalProgWeb\\4204W6_a24_formatif\\DixCordesServeur\\Models\\DisplayDTOs\\MessageDisplayDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DisplayDTOs\\MessageDisplayDTO.cs",
+              "ToolTip": "C:\\Users\\2290726\\Desktop\\A24-FormatifFinalProgWeb\\4204W6_a24_formatif\\DixCordesServeur\\Models\\DisplayDTOs\\MessageDisplayDTO.cs",
+              "RelativeToolTip": "Models\\DisplayDTOs\\MessageDisplayDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T20:27:15.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessagesController.cs",
+              "DocumentMoniker": "C:\\Users\\2290726\\Desktop\\A24-FormatifFinalProgWeb\\4204W6_a24_formatif\\DixCordesServeur\\Controllers\\MessagesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MessagesController.cs",
+              "ToolTip": "C:\\Users\\2290726\\Desktop\\A24-FormatifFinalProgWeb\\4204W6_a24_formatif\\DixCordesServeur\\Controllers\\MessagesController.cs",
+              "RelativeToolTip": "Controllers\\MessagesController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T20:07:12.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\2290726\\Desktop\\A24-FormatifFinalProgWeb\\4204W6_a24_formatif\\DixCordesServeur\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "Models\\Message.cs",
+              "ToolTip": "C:\\Users\\2290726\\Desktop\\A24-FormatifFinalProgWeb\\4204W6_a24_formatif\\DixCordesServeur\\Models\\Message.cs",
+              "RelativeToolTip": "Models\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T20:33:00.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Reaction.cs",
+              "DocumentMoniker": "C:\\Users\\2290726\\Desktop\\A24-FormatifFinalProgWeb\\4204W6_a24_formatif\\DixCordesServeur\\Models\\Reaction.cs",
+              "RelativeDocumentMoniker": "Models\\Reaction.cs",
+              "ToolTip": "C:\\Users\\2290726\\Desktop\\A24-FormatifFinalProgWeb\\4204W6_a24_formatif\\DixCordesServeur\\Models\\Reaction.cs",
+              "RelativeToolTip": "Models\\Reaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T20:32:53.601Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
